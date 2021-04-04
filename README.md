@@ -1,9 +1,10 @@
 # MyRESTapi exercise
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Inspiration and source](#inspiration-and-source)
 
 ## General info
-This project is to broaden and consolidate my skills in building a rest application.
+This project is to broaden and consolidate my skills in building a REST API.
 It is an introduction to creating new functionalities for my other projects.
 One of the goals is to know the difference between RPC(Remote Procedure Call) and REST(Representational State Transfer).
 
@@ -13,3 +14,6 @@ Project is created with:
 * Java version 11
 * IntelliJ IDEA 2020.3.1
 * Postman version 7.36.3
+
+## Inspiration and source
+spring.io building REST service tutorial 
