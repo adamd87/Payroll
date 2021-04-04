@@ -1,4 +1,4 @@
-#MyRESTapi exercise
+# MyRESTapi exercise
 * [General info](#general-info)
 * [Technologies](#technologies)
 
