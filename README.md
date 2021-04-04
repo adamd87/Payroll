@@ -5,7 +5,7 @@
 ## General info
 This project is to broaden and consolidate my skills in building a rest application.
 It is an introduction to creating new functionalities for my other projects.
-One of the goals is to know the difference RPC(Remote Procedure Call) and REST(Representational State Transfer).
+One of the goals is to know the difference between RPC(Remote Procedure Call) and REST(Representational State Transfer).
 
 ## Technologies
 Project is created with:
